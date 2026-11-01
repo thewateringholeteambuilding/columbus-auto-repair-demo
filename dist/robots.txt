@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://columbus-auto-repair-demo.thewateringhole-team.workers.dev/sitemap.xml

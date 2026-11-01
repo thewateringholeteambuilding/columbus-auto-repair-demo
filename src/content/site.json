@@ -1,0 +1,230 @@
+{
+  "business": {
+    "name": "Columbus Auto Repair",
+    "shortName": "Columbus Auto",
+    "tagline": "172 Google reviews. Auto repair on Dublin Granville Rd.",
+    "phone": "(614) 555-0148",
+    "phoneHref": "tel:+16145550148",
+    "email": "info@columbusautorepair.com",
+    "address": {
+      "street": "827 E Dublin Granville Rd",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43229",
+      "full": "827 E Dublin Granville Rd, Columbus, OH 43229"
+    },
+    "hours": {
+      "weekday": "Mon to Fri, 8 AM to 6 PM",
+      "saturday": "Sat, 8 AM to 2 PM",
+      "sunday": "Sun, Closed"
+    },
+    "mapQuery": "827+E+Dublin+Granville+Rd+Columbus+OH+43229",
+    "rating": "3.7",
+    "reviewCount": "172"
+  },
+  "stats": [
+    { "value": "172", "label": "Google Reviews" },
+    { "value": "3.7", "label": "Star Rating" },
+    { "value": "6", "label": "Days a Week" },
+    { "value": "15+", "label": "Years in Business" }
+  ],
+  "certifications": [
+    "ASE Certified",
+    "AAA Approved",
+    "Ohio E-Check Station",
+    "NAPA AutoCare Center"
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Call or Request Online",
+      "body": "Tell us the vehicle and the symptom. We schedule same-day when a bay is open."
+    },
+    {
+      "step": "02",
+      "title": "Inspect and Quote",
+      "body": "We run the scan, inspect by hand, and call you with a written estimate before touching a wrench."
+    },
+    {
+      "step": "03",
+      "title": "Repair",
+      "body": "OEM and quality aftermarket parts. We text you if anything changes. No surprise line items."
+    },
+    {
+      "step": "04",
+      "title": "Pick Up",
+      "body": "Vehicle road-tested and cleaned up. We walk you through the invoice at the counter."
+    }
+  ],
+  "services": [
+    {
+      "title": "Oil Change and Fluid Service",
+      "body": "Conventional, synthetic blend, and full synthetic. Filter replaced, fluids topped, multi-point inspection on every visit.",
+      "ideal": "Routine maintenance, high-mileage vehicles, fleet vehicles"
+    },
+    {
+      "title": "Brake Repair",
+      "body": "Pads, rotors, calipers, brake lines. We measure rotor thickness and show you the wear before recommending replacement.",
+      "ideal": "Squealing, grinding, spongy pedal, brake warning light"
+    },
+    {
+      "title": "Engine Diagnostics",
+      "body": "OBD-II scan, live sensor data, hands-on visual inspection. We find the root cause, not just the trouble code.",
+      "ideal": "Check engine light, misfires, rough idle, no-start"
+    },
+    {
+      "title": "Transmission Service",
+      "body": "Fluid flush, filter replacement, electronic diagnostics. Manual and automatic transmissions, domestic and import.",
+      "ideal": "Slipping gears, hard shifts, transmission warning light"
+    },
+    {
+      "title": "AC and Heating",
+      "body": "Refrigerant recharge, compressor replacement, heater core repair. Full climate system diagnosis with gauges and thermometer readings.",
+      "ideal": "Weak AC, no heat, strange smells from vents"
+    },
+    {
+      "title": "Suspension and Alignment",
+      "body": "Shocks, struts, control arms, tie rods, and 4-wheel alignment. We print the before-and-after alignment specs for your records.",
+      "ideal": "Pulling to one side, uneven tire wear, clunking over bumps"
+    },
+    {
+      "title": "Electrical and Battery",
+      "body": "Alternator, starter, battery load testing. Wiring diagnosis for parasitic draws, intermittent faults, and no-crank conditions.",
+      "ideal": "Dead battery, slow crank, dimming lights, blown fuses"
+    },
+    {
+      "title": "Ohio E-Check and Inspection",
+      "body": "Licensed Ohio E-Check emissions testing. If the vehicle fails, we diagnose the cause and quote the fix before you leave the lot.",
+      "ideal": "Registration renewal, used-car purchase, pre-sale check"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "image": "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?auto=format&fit=crop&w=800&q=80",
+      "title": "Bay work under the lift",
+      "caption": "Technician working underneath a vehicle on the lift. Suspension and exhaust inspection."
+    },
+    {
+      "id": "g2",
+      "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=800&q=80",
+      "title": "Brake rotor swap",
+      "caption": "Front brake rotor and pad replacement. Measured, photographed, and explained before install."
+    },
+    {
+      "id": "g3",
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=800&q=80",
+      "title": "Engine bay close-up",
+      "caption": "Checking belts, hoses, and connections during a routine engine bay inspection."
+    },
+    {
+      "id": "g4",
+      "image": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?auto=format&fit=crop&w=800&q=80",
+      "title": "OBD-II diagnostics",
+      "caption": "Live data scan on a check engine light. We read the codes and verify with real-time sensor data."
+    },
+    {
+      "id": "g5",
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=800&q=80",
+      "title": "Tire and suspension",
+      "caption": "Inspecting tie rods, ball joints, and CV boots before a 4-wheel alignment."
+    },
+    {
+      "id": "g6",
+      "image": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=800&q=80",
+      "title": "Oil change service",
+      "caption": "Synthetic oil change with filter and multi-point inspection. Standard on every service visit."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Brought my 2017 Camry in for a check engine light. They found a bad O2 sensor, showed me the live data, and had it fixed by the next morning. Straight shooters.",
+      "author": "Ryan M.",
+      "detail": "Toyota Camry, O2 sensor replacement",
+      "date": "October 2026",
+      "source": "Google"
+    },
+    {
+      "quote": "We take both family cars here for oil changes and inspections. They tell you what actually needs fixing and what can wait. That honesty keeps us coming back.",
+      "author": "Priya S.",
+      "detail": "Two-vehicle household, routine maintenance",
+      "date": "September 2026",
+      "source": "Google"
+    },
+    {
+      "quote": "AC died in August. Three shops on 161 were booked a week out. Columbus Auto got me in the next day. New compressor, cold air by Friday.",
+      "author": "James L.",
+      "detail": "AC compressor, quick turnaround",
+      "date": "August 2026",
+      "source": "Google"
+    },
+    {
+      "quote": "Transmission started slipping on my Silverado right before a family trip. They diagnosed a solenoid instead of pushing a full rebuild. Saved me serious money and got it done in two days.",
+      "author": "Angela T.",
+      "detail": "Chevy Silverado, transmission solenoid",
+      "date": "July 2026",
+      "source": "Google"
+    },
+    {
+      "quote": "Bought a used CR-V off Craigslist and brought it here for a pre-purchase inspection. They found a leaking valve cover gasket the seller did not mention. Paid for itself.",
+      "author": "Derek W.",
+      "detail": "Pre-purchase inspection, Honda CR-V",
+      "date": "May 2026",
+      "source": "Google"
+    },
+    {
+      "quote": "My daughter is at OSU and needed brake pads. I called from Cincinnati and they squeezed her in the same afternoon. She said the waiting area was clean and they explained everything. That is all a parent needs to hear.",
+      "author": "Karen B.",
+      "detail": "Brake pads, OSU student vehicle",
+      "date": "April 2026",
+      "source": "Google"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an appointment?",
+      "a": "Appointments are preferred so we can reserve a bay. But we take walk-ins when space is available. Call ahead and we can usually get you in the same day for oil changes and diagnostics."
+    },
+    {
+      "q": "What are your hours?",
+      "a": "Monday through Friday, 8 AM to 6 PM. Saturday, 8 AM to 2 PM. Closed Sunday. Saturday mornings fill fast, so call early in the week to reserve a Saturday slot."
+    },
+    {
+      "q": "Do you work on all makes and models?",
+      "a": "Yes. Honda, Toyota, Chevy, Ford, Subaru, Hyundai, Kia, Nissan, BMW, Volkswagen. Domestic and import, car, truck, and SUV. If it has an engine, we work on it."
+    },
+    {
+      "q": "How much does a diagnostic cost?",
+      "a": "Engine diagnostic starts at $89. That covers the OBD-II scan, hands-on inspection, and a written quote. If you approve the repair, the $89 applies toward the total."
+    },
+    {
+      "q": "Do you do Ohio E-Check emissions testing?",
+      "a": "Yes. We are a licensed Ohio E-Check station. If the vehicle fails, we diagnose the issue and quote the repair before you leave. No second trip to another shop."
+    },
+    {
+      "q": "Can I wait while my car is being serviced?",
+      "a": "Yes. We have a waiting area with seating, Wi-Fi, and a coffee machine. Oil changes and brake jobs typically finish within 90 minutes. For longer repairs, we will call you with a pickup time."
+    },
+    {
+      "q": "Do you offer a warranty on repairs?",
+      "a": "Every repair is backed by a 24-month, 24,000-mile warranty on parts and labor. The warranty terms are printed on your invoice."
+    }
+  ],
+  "team": [
+    {
+      "name": "Shop Owner",
+      "role": "Owner and Lead Technician",
+      "blurb": "15+ years at this location on Dublin Granville Rd. ASE Master Certified. Still runs diagnostics and oversees every major repair."
+    },
+    {
+      "name": "Senior Technician",
+      "role": "ASE Certified, Drivetrain Specialist",
+      "blurb": "Transmission, differential, and transfer case work. The one customers ask for when the problem stumped another shop."
+    },
+    {
+      "name": "Service Writer",
+      "role": "Front Desk and Scheduling",
+      "blurb": "Answers the phone, writes up the work order, calls you with the estimate. Keeps the schedule moving."
+    }
+  ]
+}

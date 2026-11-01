@@ -1,0 +1,32 @@
+# Columbus Auto Repair
+
+> Auto repair at 827 E Dublin Granville Rd, Columbus, OH 43229. Oil changes, brakes, engine diagnostics, transmission, AC, suspension, electrical, and Ohio E-Check. Open Mon-Fri 8 AM to 6 PM, Sat 8 AM to 2 PM. 172 Google reviews. 24-month, 24,000-mile warranty on all repairs.
+
+## About
+
+Columbus Auto Repair is a general auto repair shop on Dublin Granville Rd in the Northland area of Columbus, Ohio. The shop has been in operation for over 15 years. ASE certified technicians service all makes and models: domestic, import, truck, and SUV. Every repair is backed by a 24-month, 24,000-mile warranty on parts and labor.
+
+## Services
+
+- Oil Change and Fluid Service
+- Brake Repair
+- Engine Diagnostics
+- Transmission Service
+- AC and Heating
+- Suspension and Alignment
+- Electrical and Battery
+- Ohio E-Check and Inspection
+
+## Pages
+
+- Home: https://columbus-auto-repair-demo.thewateringhole-team.workers.dev/
+- About: https://columbus-auto-repair-demo.thewateringhole-team.workers.dev/about
+- Services: https://columbus-auto-repair-demo.thewateringhole-team.workers.dev/services
+- Gallery: https://columbus-auto-repair-demo.thewateringhole-team.workers.dev/gallery
+- Request Estimate: https://columbus-auto-repair-demo.thewateringhole-team.workers.dev/estimate
+
+## Contact
+
+- Phone: (614) 555-0148
+- Address: 827 E Dublin Granville Rd, Columbus, OH 43229
+- Hours: Mon-Fri 8 AM to 6 PM, Sat 8 AM to 2 PM
